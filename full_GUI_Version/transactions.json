@@ -1,0 +1,98 @@
+{
+    "Sales": [
+        {
+            "serial_no": "9606",
+            "amount": 7890.0,
+            "t_type": "Income",
+            "date": "2024-04-11"
+        }
+    ],
+    "Salary": [
+        {
+            "serial_no": "0654",
+            "amount": 5000.0,
+            "t_type": "Income",
+            "date": "2024-04-11"
+        }
+    ],
+    "Miscellanous": [
+        {
+            "serial_no": "9910",
+            "amount": 450.0,
+            "t_type": "Expense",
+            "date": "2024-04-11"
+        },
+        {
+            "serial_no": "0943",
+            "amount": 459.0,
+            "t_type": "Expense",
+            "date": "2024-04-12"
+        },
+        {
+            "serial_no": "6629",
+            "amount": 456.0,
+            "t_type": "Expense",
+            "date": "2024-03-05"
+        }
+    ],
+    "Water bills": [
+        {
+            "serial_no": "5127",
+            "amount": 4000.0,
+            "t_type": "Expense",
+            "date": "2024-03-04"
+        }
+    ],
+    "E-bills": [
+        {
+            "serial_no": "6784",
+            "amount": 2500.0,
+            "t_type": "Expense",
+            "date": "2033-02-02"
+        },
+        {
+            "serial_no": "7648",
+            "amount": 650.0,
+            "t_type": "Expense",
+            "date": "2024-04-12"
+        }
+    ],
+    "Rent income": [
+        {
+            "serial_no": "0334",
+            "amount": 6700.0,
+            "t_type": "Income",
+            "date": "2042-09-30"
+        }
+    ],
+    "Groceries": [
+        {
+            "serial_no": "8573",
+            "amount": 7000.0,
+            "t_type": "Expense",
+            "date": "2042-09-30"
+        },
+        {
+            "serial_no": "4282",
+            "amount": 7000.0,
+            "t_type": "Expense",
+            "date": "2024-04-12"
+        }
+    ],
+    "Income received": [
+        {
+            "serial_no": "6718",
+            "amount": 2000.0,
+            "t_type": "Income",
+            "date": "2024-08-21"
+        }
+    ],
+    "Movies": [
+        {
+            "serial_no": "5965",
+            "amount": 5000.0,
+            "t_type": "Expense",
+            "date": "2024-04-21"
+        }
+    ]
+}

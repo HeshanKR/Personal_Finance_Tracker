@@ -1,0 +1,14 @@
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income received, 2000, income, 2024-08-21
+
+
+
+
+
+
+
+
+
+
+

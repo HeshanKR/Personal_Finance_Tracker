@@ -1,0 +1,50 @@
+{
+    "Sales": [
+        {
+            "serial_no": "4789",
+            "amount": 7890.0,
+            "t_type": "Income",
+            "date": "2024-04-11"
+        },
+        {
+            "serial_no": "2006",
+            "amount": 4000.0,
+            "t_type": "Income",
+            "date": "2022-02-04"
+        }
+    ],
+    "Salary": [
+        {
+            "serial_no": "0654",
+            "amount": 5000.0,
+            "t_type": "Income",
+            "date": "2024-04-11"
+        }
+    ],
+    "E-bills": [
+        {
+            "serial_no": "9887",
+            "amount": 4000.0,
+            "t_type": "Income",
+            "date": "2024-03-17"
+        },
+        {
+            "serial_no": "4284",
+            "amount": 7000.0,
+            "t_type": "Expense",
+            "date": "2042-09-30"
+        },
+        {
+            "serial_no": "5344",
+            "amount": 2000.0,
+            "t_type": "Income",
+            "date": "2024-08-21"
+        },
+        {
+            "serial_no": "0129",
+            "amount": 5000.0,
+            "t_type": "Income",
+            "date": "2024-04-28"
+        }
+    ]
+}

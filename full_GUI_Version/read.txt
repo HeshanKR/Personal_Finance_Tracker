@@ -1,0 +1,2578 @@
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+Rent income, 6700, income, 2042-09-30
+Groceries, 7000, expense, 2042-09-30
+Income recieved, 2000, income, 2024-08-21
+Rent income, 6700, income,     
+Rent income, 6700, income, fwfwfwss
+Rent income, 6700, income,    
+Rent income, -32242,     , 2042-07-12
+Income recieved, 2000,     , 2024-08-21
+
+
